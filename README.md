@@ -9,5 +9,6 @@ Each skill lives in its own folder under [skills/](skills/) as a `SKILL.md` file
 | Skill | Category | Description |
 | --- | --- | --- |
 | [idea-review](skills/idea-review/SKILL.md) | Ideation & strategy | Scores a raw content idea against a fit and impact bar before it gets a brief. |
+| [idea-tournament](skills/idea-tournament/SKILL.md) | Ideation & strategy | Runs competing ideas head-to-head to surface the strongest concept. |
 
 More skills from the [full library](https://olganeroda.com/skills) will be added here over time.
