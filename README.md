@@ -50,7 +50,7 @@ Each skill lives in its own folder under [skills/](skills/) as a `SKILL.md` file
 | --- | --- |
 | [long-form](skills/long-form/SKILL.md) | Drafts a full-length article from a brief and outline. |
 | [newsletter-writer](skills/newsletter-writer/SKILL.md) | Turns source material into a send-ready newsletter issue. |
-| [philipp-rewrite](skills/philipp-rewrite/SKILL.md) | Rewrites a draft in a named reference voice. |
+| [angela-voice](skills/angela-voice/SKILL.md) | Rewrites a draft in a named reference voice. |
 | [repurpose](skills/repurpose/SKILL.md) | Breaks one long-form piece into channel-specific derivatives. |
 | [seo-audit](skills/seo-audit/SKILL.md) | Checks a draft or live page against on-page SEO fundamentals. |
 

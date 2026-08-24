@@ -9,7 +9,7 @@ Takes existing copy and inserts spintax — the `{option1|option2|option3}` brac
 
 ## When to use
 
-Use this only when copy already exists and the ask is specifically for spintax-formatted variation, not a rewrite. This is a narrow, mechanical transformation: swap in alternate words and phrases at chosen points in the existing copy, preserving its structure and meaning. It is not [[philipp-rewrite]] — that skill rewrites a piece's voice and structure wholesale; this skill touches only the specific spots marked for variation and leaves everything else untouched.
+Use this only when copy already exists and the ask is specifically for spintax-formatted variation, not a rewrite. This is a narrow, mechanical transformation: swap in alternate words and phrases at chosen points in the existing copy, preserving its structure and meaning. It is not [[angela-voice]] — that skill rewrites a piece's voice and structure wholesale; this skill touches only the specific spots marked for variation and leaves everything else untouched.
 
 ## Inputs needed
 

@@ -1,9 +1,9 @@
 ---
-name: philipp-rewrite
-description: Rewrites a draft in a named reference voice ("Philipp"). Use when an existing draft needs its word choice, rhythm, and sentence structure transformed to match a specific reference voice, while its facts, claims, and argument stay intact. Trigger on requests like "rewrite this in Philipp's voice" or "run this through the Philipp pass." Not for drafting new content from scratch — this transforms an existing draft, it doesn't originate one.
+name: angela-voice
+description: Rewrites a draft in a named reference voice ("Angela"). Use when an existing draft needs its word choice, rhythm, and sentence structure transformed to match a specific reference voice, while its facts, claims, and argument stay intact. Trigger on requests like "rewrite this in Angela's voice" or "run this through the Angela pass." Not for drafting new content from scratch — this transforms an existing draft, it doesn't originate one.
 ---
 
-# Philipp Rewrite
+# Angela Voice
 
 Rewrites an existing draft in a named reference voice, changing how it sounds without changing what it says.
 
